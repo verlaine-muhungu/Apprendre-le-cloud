@@ -1,8 +1,8 @@
 # Bienvenue 
 
-## What is Learn to Cloud?
+## C'est quoi apprendre le cloud?
 
-Learn to Cloud is a GUIDE (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn to get into Cloud Computing. At the end of it you should have the technical knowledge for roles like:
+Apprendre le cloud est un guide (pas un livre ni un cours) qui provient de [ce tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). l'objectif est de vous fournir un aperçu des compétences dont vous avez besoin d’apprendre pour commencer le cloud computing. At the end of it you should have the technical knowledge for roles like:
 
 - Administrateur systeme.
 - Ingenieur de support cloud.
@@ -12,7 +12,7 @@ Learn to Cloud is a GUIDE (not a book or course) that originated from [this twee
 
 Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
  
-## Questions? Comments? Feedback?
+## Questions? Commentaires? Feedback?
 
 Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 
