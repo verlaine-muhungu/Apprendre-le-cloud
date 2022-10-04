@@ -46,13 +46,13 @@ Cependant, certaines personnes m’ont dit que cela les avait aidés à décroch
 
 ## Emplois
 
-I'm a big fan of starting in tech at a support role and moving up. They are entry level friendly and often are willing to pay for educational material and certifications. 
+Je suis un grand fan de commencer dans la technologie à un rôle d'assistance et de progresser. Ils sont amicaux avec les débutants et sont souvent prêts à payer pour du matériel éducatif et des certifications.
 
 Also almost every company has a helpdesk, so plenty of openings to get started in!
 
-Take a look at this video by KevTech on [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU). regardez sa chaîne parce qu’il a tellement de contenu génial!!
+Jettez un coup d’oeil à cette video par KevTech sur [Questions d’interview au service d’assistance ](https://youtu.be/McxVgoQaCpU). regardez sa chaîne parce qu’il a tellement de contenu génial!!
 
-## What's next
+## C'est quoi la suite 
 
 
 [Allez à phase 1: Linux,Réseau,et les Fondamentaux du scripting](../phase1/README.md)
