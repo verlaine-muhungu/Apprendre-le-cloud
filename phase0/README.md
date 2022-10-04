@@ -13,7 +13,7 @@ Commençons.
 
 1. Je pense une premiere bonne étape est de comprendre les fondamentaux de L'IT  [cette playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K) est une vue d’ensemble fantastique.
 
-2. The above video should give you some understanding of the following but let's dive in a little more and understand what some of the fundamentals of Cloud are.
+2. La video ci-jointe vous donne une certaine compréhension de ce qui suit, mais approfondissons un peu plus et comprenons ce que sont certains des fondamentaux du Cloud.
 
    - [C'est quoi linux ](https://youtu.be/PwugmcN1hf8)
    - [C'est quoi le reseau](https://youtu.be/3QhU9jd03a0)
@@ -25,24 +25,23 @@ Commençons.
 
 ## Les choses que vous devez être familier avec à la fin de cette phase
 
-- Honestly at this point, all you need to make sure of is that you want to get into tech and you're prepared to learn a lot. The learning will never stop.
+- honnêtement à ce point , tout ce dont vous avez besoin pour vous assurer, c’est que vous voulez entrer dans la technologie et que vous êtes prêt à apprendre beaucoup. l'apprentissage ne s'arretera jamais.
 
 
 ## Les Certifications que vous pourriez vouloir voir
 
  Un standard de l'industrie pour les gens de commencer en tech est le [CompTIA A+](https://www.comptia.org/certifications/a).
 
-Est-ce necessaire ? Non,Est-ce utile? Depend de votre style d'apprentissage. Ai-je pris le A+? Aussi non. Cela signifie que vous ne devriez pas le prendre ? Non. Does it help your resume? peut-être.
+Est-ce necessaire ? Non,Est-ce utile? Depend de votre style d'apprentissage. Ai-je pris le A+? Aussi non. Cela signifie que vous ne devriez pas le prendre ? Non. Est-ce que ça aide votre CV? peut-être.
 
-However some people have told me that it's helped them land support roles like 
+Cependant, certaines personnes m’ont dit que cela les avait aidés à décrocher des rôles d'assistance comme
 
-- Service Desk Analyst
-- Help Desk Tech
+- Analyste du Centre de services
+- Technicien du service d’assistance
 - Desktop Support Administrator
 - Technical Support Specialist
 - End User Computing Technician
 - Field Service Technician
-- Help Desk Technician 
 - System Support Specialist
 
 ## Emplois
@@ -51,9 +50,9 @@ I'm a big fan of starting in tech at a support role and moving up. They are entr
 
 Also almost every company has a helpdesk, so plenty of openings to get started in!
 
-Take a look at this video by KevTech on [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU). Binge watch his channel because he has so much great content!
+Take a look at this video by KevTech on [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU). regardez sa chaîne parce qu’il a tellement de contenu génial!!
 
 ## What's next
 
 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md)
+[Allez à phase 1: Linux,Réseau,et les Fondamentaux du scripting](../phase1/README.md)
