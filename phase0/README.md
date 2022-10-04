@@ -48,7 +48,7 @@ Cependant, certaines personnes m’ont dit que cela les avait aidés à décroch
 
 Je suis un grand fan de commencer dans la technologie à un rôle d'assistance et de progresser. Ils sont souvent abordables pour les débutants et certaines entreprises sont prêtes à payer pour du matériel éducatif et des certifications.
 
-De plus,presque toutes les entreprises ont un service d’assistance, donc beaucoup d’ouvertures pour commencer!
+En plus,presque toutes les entreprises ont un service d’assistance, donc beaucoup d’ouvertures pour commencer!
 
 Jettez un coup d’oeil à cette video par KevTech sur [Questions d’interviews au service d’assistance ](https://youtu.be/McxVgoQaCpU). regardez sa chaîne parce qu’il a tellement de contenu génial!!
 
