@@ -32,7 +32,7 @@ Commençons.
 
  Un standard de l'industrie pour les gens de commencer en tech est le [CompTIA A+](https://www.comptia.org/certifications/a).
 
-Est-ce necessaire ? Non,Est-ce utile? Depend de votre style d'apprentissage. Ai-je pris le A+? Aussi non. Cela signifie que vous ne devriez pas le prendre ? Non. Est-ce que ça aide votre CV? peut-être.
+Est-ce necessaire ? Non, Est-ce utile? Cela depend de votre style d'apprentissage. Ai-je pris le A+? Aussi non. Cela signifie que vous ne devriez pas le prendre ? Non. Est-ce que ça aide votre CV? peut-être.
 
 Cependant, certaines personnes m’ont dit que cela les avait aidés à décrocher des rôles d'assistance comme
 
@@ -46,11 +46,11 @@ Cependant, certaines personnes m’ont dit que cela les avait aidés à décroch
 
 ## Emplois
 
-Je suis un grand fan de commencer dans la technologie à un rôle d'assistance et de progresser. Ils sont amicaux avec les débutants et sont souvent prêts à payer pour du matériel éducatif et des certifications.
+Je suis un grand fan de commencer dans la technologie à un rôle d'assistance et de progresser. Ils sont souvent abordables pour les débutants et certaines entreprises sont prêtes à payer pour du matériel éducatif et des certifications.
 
-Also almost every company has a helpdesk, so plenty of openings to get started in!
+De plus,presque toutes les entreprises ont un service d’assistance, donc beaucoup d’ouvertures pour commencer!
 
-Jettez un coup d’oeil à cette video par KevTech sur [Questions d’interview au service d’assistance ](https://youtu.be/McxVgoQaCpU). regardez sa chaîne parce qu’il a tellement de contenu génial!!
+Jettez un coup d’oeil à cette video par KevTech sur [Questions d’interviews au service d’assistance ](https://youtu.be/McxVgoQaCpU). regardez sa chaîne parce qu’il a tellement de contenu génial!!
 
 ## C'est quoi la suite 
 
