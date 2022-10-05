@@ -1,6 +1,6 @@
-# Phase 5: Les fondamentaux de la sécurité cloud
+# Phase 5: Cloud Security Fundamentals
 
-Auteur: [Dayspring Johnson](https://twitter.com/daycyberwox)
+Author: [Dayspring Johnson](https://twitter.com/daycyberwox)
 
 ## How does this phase apply to Cloud?
 
