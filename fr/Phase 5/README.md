@@ -2,7 +2,7 @@
 
 Auteur: [Dayspring Johnson](https://twitter.com/daycyberwox)
 
-## Comment s'applique cette phase au cloud ??
+## Comment s'applique cette phase au cloud ?
 
 La sécurité est le plus grand challenge au cloud computing .Alors que l’adoption du cloud continue de croître,les incidents et les vulnérabilités de sécurité du cloud sont également en hausse.
 
@@ -26,21 +26,21 @@ Rappelez-vous toujours cela,vous ne pouvez pas sécuriser ce que vous ne compren
 
 | Plateforme cloud | Titre  | Description  |
 |:-------------- | ------ | ------ |
-AWS, Azure & GCP | [Hacking The Cloud](https://hackingthe.cloud/)| Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that are common in cloud exploitation. |
-AWS | [Flaws.Cloudf](http://flaws.cloud/)| Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS). |
-AWS | [Flaws2.Cloud](http://flaws2.cloud/)| Similar to the original Flaws.Cloud Challenge this tutorial teaches you AWS security concepts but this time from both an offensive and defensive perspective |
+AWS, Azure & GCP | [Piratage du cloud](https://hackingthe.cloud/)| Piratage du cloud est une encyclopedie d'attaques/tactiques/techniques qui sont commun dans l'exploitation du cloud. |
+AWS | [Flaws.Cloudf](http://flaws.cloud/)| Grâce à une série de niveaux,vous découvrirez les erreurs et les pièges courants lors de l’utilisation d’Amazon Web Services (AWS). |
+AWS | [Flaws2.Cloud](http://flaws2.cloud/)| Semblable à l’original Flaws.Cloud Challenge, ce didacticiel vous enseigne les concepts de sécurité AWS, mais cette fois d’un point de vue offensif et défensif.|
 AWS | [Cloud Goat](https://github.com/RhinoSecurityLabs/cloudgoat)| CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool that allows you to hone your cloud cybersecurity skills by creating and completing several "capture-the-flag" style scenarios. |
-AWS | [Sadcloud](https://github.com/nccgroup/sadcloud)| Sadcloud is a tool for spinning up insecure AWS infrastructure with Terraform. You can test your AWS security knowledge against these infrastructure. |
-AWS | [AWS Well-Architected Labs: Security](https://www.wellarchitectedlabs.com/security/)| The security labs are documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices. |
-AWS | [Attack Detection Fundamentals](https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-aws-lab-1/)| This three-part series explores an end-to-end kill chain in AWS and log entries for detection & analysis. |
-Azure | [Attack Detection Fundamentals](https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-azure-lab-1/)| This three-part series explores an end-to-end kill chain in Azure and log entries for detection & analysis. |
-Azure | [CONVEX](https://github.com/Azure/CONVEX)| Cloud Open-source Network Vulnerability Exploitation eXperience (CONVEX) spins up Capture The Flag environments in your Azure tenant for you to play through.  |
-Azure | [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/azurecitadel/azure-security-lab)| A hands on guide to securing azure infrastructure using various azure security controls. |
-Azure | [Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)| Various labs scenarios covering azure security. |
-Azure | [Create an Azure Vulnerable Lab](https://0xpwn.wordpress.com/2022/03/05/setting-up-an-azure-pentest-lab-part-1-anonymous-blob-access/)| A four-part series explaining azure vulnerabilities. |
-GCP | [GCP GOAT](https://gcpgoat.joshuajebaraj.com/)| GCP-Goat is intentionally vulnerable GCP environment to learn and practice GCP Security |
-GCP | [ThunderCTF](https://aws.amazon.com/training/)| Thunder CTF allows players to practice attacking vulnerable cloud projects on Google Cloud Platform (GCP). In each level, players are tasked with exploiting a cloud deployment to find a "secret" integer stored within it. |
-Kubernetes | [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)| Kubernetes Goat is an interactive Kuberenetes Security Learning Playground |
+AWS | [Sadcloud](https://github.com/nccgroup/sadcloud)|Sadcloud est un outil permettant de créer une infrastructure AWS non sécurisée avec Terraform. Vous pouvez tester vos connaissances en matière de sécurité AWS par rapport à ces infrastructures. |
+AWS | [AWS Well-Architected Labs: Security](https://www.wellarchitectedlabs.com/security/)| Les laboratoires de sécurité sont de la documentation et du code sous la forme de laboratoires pratiques pour vous aider à apprendre, mesurer et construire à l’aide des meilleures pratiques architecturales.|
+AWS | [Attack Detection Fundamentals](https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-aws-lab-1/)| Cette série en trois parties explore une chaîne d’élimination de bout en bout dans AWS et enregistre les entrées pour la détection et l’analyse. |
+Azure | [Attack Detection Fundamentals](https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-azure-lab-1/)|Cette série en trois parties explore une chaîne d’élimination de bout en bout dans Azure et enregistre les entrées pour la détection et l’analyse. |
+Azure | [CONVEX](https://github.com/Azure/CONVEX)| Cloud Open-source Network Vulnerability Exploitation eXperience (CONVEX) lance les environnements Capture The Flag dans votre client Azure pour que vous puissiez y jouer.  |
+Azure | [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/azurecitadel/azure-security-lab)|Un guide pratique pour sécuriser l’infrastructure azure à l’aide de divers contrôles de sécurité azure. |
+Azure | [Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)| Divers scénarios de laboratoire couvrant la sécuritazure.|
+Azure | [Create an Azure Vulnerable Lab](https://0xpwn.wordpress.com/2022/03/05/setting-up-an-azure-pentest-lab-part-1-anonymous-blob-access/)| Une série en quatre parties expliquant les vulnérabilités azure. |
+GCP | [GCP GOAT](https://gcpgoat.joshuajebaraj.com/)| GCP-Goat est intentionnellement vulnérable à l’environnement GCP pour apprendre et pratiquer GCP Security |
+GCP | [ThunderCTF](https://aws.amazon.com/training/)|Thunder CTF permet aux joueurs de s’entraîner à attaquer des projets cloud vulnérables sur Google Cloud Platform (GCP). Dans chaque niveau, les joueurs sont chargés d’exploiter un déploiement cloud pour trouver un entier « secret » qui y est stocké. . |
+Kubernetes | [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)| Kubernetes Goat est un terrain de jeu interactif d’apprentissage de la sécurité Kuberenetes |
 
 
 
@@ -78,7 +78,7 @@ Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER
 - [Google Professional Cloud Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
 
 ### Certifications pratiques (Formations incluses)
-These are lesser know certifications but they are focused on giving you the training needed as well as hands-on certifications where you put the skills you've learned to use, rather than clicking through multiple choice questions.
+Ce sont des certifications moins connues, mais elles visent à vous donner la formation nécessaire ainsi que des certifications pratiques où vous mettez les compétences que vous avez appris à utiliser, plutôt que de cliquer sur des questions à choix multiples.
 - [Certified Az Red Team Professional](https://bootcamps.pentesteracademy.com/course/ad-azure-may-21)
 - [Certified Azure Web Application Security Professional](https://bootcamps.pentesteracademy.com/course/azure-appsec-beginner-jul-22)
 - [Offensive Azure Security Professional](https://cloudbreach.io/labs/)
