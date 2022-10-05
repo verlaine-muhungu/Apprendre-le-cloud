@@ -1,16 +1,15 @@
-# Phase 5: Cloud Security Fundamentals
+# Phase 5: Les fondamentaux de la sécurité cloud 
 
-Author: [Dayspring Johnson](https://twitter.com/daycyberwox)
+Auteur: [Dayspring Johnson](https://twitter.com/daycyberwox)
 
-## How does this phase apply to Cloud?
+## Comment s'applique cette phase au cloud ??
 
-Security is the biggest challenge to cloud computing. As cloud adoption continues to grow, cloud security incidents and vulnerabilities are equally on the rise. 
+La sécurité est le plus grand challenge au cloud computing .Alors que l’adoption du cloud continue de croître , les incidents et les vulnérabilités de sécurité du cloud sont également en hausse.
 
-The individual cloud components you were introduced to in the previous phases all require security in some shape or form. Better yet, security has to be considered from every perspective in order to prevent malicious actors from finding and exploiting vulnerabilities in our cloud environments which could potentially lead to data or infrastructure compromise.
+Les composants cloud individuels que vous avez découverts dans les phases précédentes nécessitent tous une sécurité sous une forme ou une autre. Mieux encore, la sécurité doit être envisagée sous tous les angles afin d’empêcher les acteurs malveillants de trouver et d’exploiter les vulnérabilités de nos environnements cloud qui pourraient potentiellement conduire à une compromission des données ou de l’infrastructure.
+Voici l’un de mes articles préférés par [Christophe Tafani-Dereeper](https://twitter.com/christophetd) qui couvre les failles et les vulnérabilités de la sécurité du cloud:
 
-Here's one of my favorite articles by [Christophe Tafani-Dereeper](https://twitter.com/christophetd) that covers Cloud Security Breaches and Vulnerabilities:
-
-- [Cloud Security Breaches and Vulnerabilities: 2021 in Review](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
+- [Failles et vulnérabilités de la sécurité dans le cloud: 2021 en revue](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
 
 I also recommend checking out [Securing DevOps: Security in the Cloud](https://www.manning.com/books/securing-devops) by [Julien Vehent](https://twitter.com/jvehent) which covers several of the core components for protecting cloud infrastructure, logging, detecting threats and so on. It even has practical and visual aids that help in learning these concepts. 
 
