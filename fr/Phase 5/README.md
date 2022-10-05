@@ -4,24 +4,27 @@ Auteur: [Dayspring Johnson](https://twitter.com/daycyberwox)
 
 ## Comment s'applique cette phase au cloud ??
 
-La sécurité est le plus grand challenge au cloud computing .Alors que l’adoption du cloud continue de croître , les incidents et les vulnérabilités de sécurité du cloud sont également en hausse.
+La sécurité est le plus grand challenge au cloud computing .Alors que l’adoption du cloud continue de croître,les incidents et les vulnérabilités de sécurité du cloud sont également en hausse.
 
 Les composants cloud individuels que vous avez découverts dans les phases précédentes nécessitent tous une sécurité sous une forme ou une autre. Mieux encore, la sécurité doit être envisagée sous tous les angles afin d’empêcher les acteurs malveillants de trouver et d’exploiter les vulnérabilités de nos environnements cloud qui pourraient potentiellement conduire à une compromission des données ou de l’infrastructure.
 Voici l’un de mes articles préférés par [Christophe Tafani-Dereeper](https://twitter.com/christophetd) qui couvre les failles et les vulnérabilités de la sécurité du cloud:
 
 - [Failles et vulnérabilités de la sécurité dans le cloud: 2021 en revue](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
 
-I also recommend checking out [Securing DevOps: Security in the Cloud](https://www.manning.com/books/securing-devops) by [Julien Vehent](https://twitter.com/jvehent) which covers several of the core components for protecting cloud infrastructure, logging, detecting threats and so on. It even has practical and visual aids that help in learning these concepts. 
+Je recommande aussi de consulter [SécurisationDevOps:La sécurité dans le cloud](https://www.manning.com/books/securing-devops) par [Julien Vehent](https://twitter.com/jvehent) qui couvre plusieurs des composants de base pour la protection de l’infrastructure cloud, la journalisation, la détection des menaces, etc. Il dispose même d’aides pratiques et visuelles qui aident à apprendre ces concepts . 
 
-Another book recommendation is [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/) by [Chris Dotson](https://www.linkedin.com/in/chris-dotson-6a9b55/). This book is a good complimentary resource to the previous book as it goes in-depth into various concepts, standards, frameworks and principles required for cloud security, and as the name implies, it is practical.
+Un autre livre est [Sécurité Cloud pratique: Guide de conception et de déploiement sécurisés](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/) par [Chris Dotson](https://www.linkedin.com/in/chris-dotson-6a9b55/). Ce livre est une bonne ressource complémentaire au livre précédent car il approfondit divers concepts, normes, cadres et principes requis pour la sécurité du cloud, et comme son nom l’indique, il est pratique.
 
-Always rememeber this, you can not secure what you do not understand, so make sure to understand the architectural and core components of the cloud so that you can properly secure them.
+
+Rappelez-vous toujours cela,vous ne pouvez pas sécuriser ce que vous ne comprenez pas, alors assurez-vous de comprendre les composants architecturaux et de base du cloud afin de pouvoir les sécuriser correctement.
+
+.
 
 
 ## Resources
 
 
-| Cloud Platform | Title  | Description  |
+| Plateforme cloud | Titre  | Description  |
 |:-------------- | ------ | ------ |
 AWS, Azure & GCP | [Hacking The Cloud](https://hackingthe.cloud/)| Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that are common in cloud exploitation. |
 AWS | [Flaws.Cloudf](http://flaws.cloud/)| Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS). |
@@ -42,10 +45,10 @@ Kubernetes | [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)| Kuberne
 
 
 
-## Projects 
+## Projets
 
 
-| Cloud Platform | Title  | Description  |
+| Plateforme cloud | Titre | Description  |
 |:-------------- | ------ | ------ |
 AWS | [Threat Detection With AWS GuardDuty](https://www.youtube.com/watch?v=lLgqP4cbdWg&t=127s)| A tutorial showing how to use AWS GuardDuty to detect threats. |
 AWS | [AWS Threat Simulation & Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection/blob/main/aws.credential-access.ec2-get-password-data.md)| This doc shows the use of Stratus Red Team & SumoLogic for attack & detection/analysis. This can replicated using any other SIEM. |
@@ -53,7 +56,7 @@ Azure | [Azure Cloud Detection Lab(Blog)](https://cyberwoxacademy.com/azure-clou
 Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://youtu.be/RoZeVbbZ0o0)| A hands-on project showing how to set up a honey pot and analyzing malicious traffic using Azure Sentinel. |
 
 
-## Things you should be familiar with at the end of this phase
+## Les choses que vous devez être familier avec à la fin de cette phase
 
 
 - An understanding of core IAM concepts (Users, Roles, Policies, Groups, Service Accounts/Principals, etc.)
@@ -65,7 +68,7 @@ Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER
 - How to deploy vulnerable infrastructure in the cloud for security testing.
 - Knowledge and usage various cloud security tools.
 
-## Certifications you might want to look into
+## Certifications que vous pourriez vouloir voir
 
 
 - [Certified Cloud Security Professional](https://www.isc2.org/Certifications/CCSP)
@@ -74,7 +77,7 @@ Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER
 - [AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
 - [Google Professional Cloud Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
 
-### Practical Certifications (training included)
+### Certifications pratiques (Formations incluses)
 These are lesser know certifications but they are focused on giving you the training needed as well as hands-on certifications where you put the skills you've learned to use, rather than clicking through multiple choice questions.
 - [Certified Az Red Team Professional](https://bootcamps.pentesteracademy.com/course/ad-azure-may-21)
 - [Certified Azure Web Application Security Professional](https://bootcamps.pentesteracademy.com/course/azure-appsec-beginner-jul-22)
