@@ -1,56 +1,58 @@
-# Phase 0: Starting from zero
+# Phase 0: Partir de zero 
 
-## How does this phase apply to Cloud?
+Auteur: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
 
-If you feel like you have zero tech experience but you want to get into Cloud Computing. This phase is for you. If you are already in tech and switching to cloud, 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md).
+## Comment s'applique cette phase au cloud ?
 
-
-Let's get started. 
-
-1. I think a good first step is understanding the fundamentals of IT and [this video](https://youtu.be/awLnur5Yt9o) is a fantastic overview.
-
-2. The above video should give you some understanding of the following but let's dive in a little more and understand what some of the fundamentals of Cloud are.
-
-   - [What is Linux](https://youtu.be/PwugmcN1hf8)
-   - [What is Networking](https://youtu.be/3QhU9jd03a0)
-   - [What is Programming](https://youtu.be/ifo76VyrBYo)
-   - [What is Cloud Computing](https://youtu.be/eZLcyTxi8ZI)
-   - [What is DevOps](https://youtu.be/9pZ2xmsSDdo/)
-   - [What is a Cloud Engineer and how to become one](https://youtu.be/7i1WMGxyt4Q)
+Si vous avez l'impression que vous avez zero experience mais vous voulez commencer le cloud computing . Cette phase est pour vous.  Si vous êtes déjà en tech et vous passez au cloud
+, 
+[Allez à phase 1: Linux,Réseau,et les Fondamentaux du scripting](../phase1/README.md).
 
 
-## Things you should be able familiar with at the end of this phase
+Commençons. 
 
-- Honestly at this point, all you need to make sure of is that you want to get into tech and you're prepared to learn a lot. The learning will never stop.
+1. Je pense une premiere bonne étape est de comprendre les fondamentaux de L'IT  [cette playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K) est une vue d’ensemble fantastique.
+
+2. La video ci-jointe vous donne une certaine compréhension de ce qui suit, mais approfondissons un peu plus et comprenons ce que sont certains des fondamentaux du Cloud.
+
+   - [C'est quoi linux ](https://youtu.be/PwugmcN1hf8)
+   - [C'est quoi le reseau](https://youtu.be/3QhU9jd03a0)
+   - [C'est quoi la programmation](https://youtu.be/ifo76VyrBYo)
+   - [C'est quoi le cloud computing](https://youtu.be/eZLcyTxi8ZI)
+   - [C'est quoi DevOps ](https://youtu.be/9pZ2xmsSDdo/)
+   - [C'est quoi un ingenieur cloud et comment le devenir](https://youtu.be/7i1WMGxyt4Q)
 
 
-## Certifications you might want to look into 
+## Les choses que vous devez être familier avec à la fin de cette phase
 
-An industry standard for people getting into tech is the [CompTIA A+](https://www.comptia.org/certifications/a).
+- honnêtement à ce point , tout ce dont vous avez besoin pour vous assurer, c’est que vous voulez entrer dans la technologie et que vous êtes prêt à apprendre beaucoup. l'apprentissage ne s'arretera jamais.
 
-Is it necessary? No. Is it helpful? Depends on your learning style. Did I take the A+? Also no. Does that mean you shouldn't take it? No. Does it help your resume? Maybe.
 
-However some people have told me that it's helped them land support roles like 
+## Les Certifications que vous pourriez vouloir voir
 
-- Service Desk Analyst
-- Help Desk Tech
+ Un standard de l'industrie pour les gens de commencer en tech est le [CompTIA A+](https://www.comptia.org/certifications/a).
+
+Est-ce necessaire ? Non, Est-ce utile? Cela depend de votre style d'apprentissage. Ai-je pris le A+? Aussi non. Cela signifie que vous ne devriez pas le prendre ? Non. Est-ce que ça aide votre CV? peut-être.
+
+Cependant, certaines personnes m’ont dit que cela les avait aidés à décrocher des rôles d'assistance comme
+
+- Analyste du Centre de services
+- Technicien du service d’assistance
 - Desktop Support Administrator
 - Technical Support Specialist
 - End User Computing Technician
 - Field Service Technician
-- Help Desk Technician 
 - System Support Specialist
 
-## Jobs
+## Emplois
 
-I'm a big fan of starting in tech at a support role and moving up. They are entry level friendly and often are willing to pay for educational material and certifications. 
+Je suis un grand fan de commencer dans la technologie à un rôle d'assistance et de progresser. Ils sont souvent abordables pour les débutants et certaines entreprises sont prêtes à payer pour du matériel éducatif et des certifications.
 
-Also almost every company has a helpdesk, so plenty of openings to get started in!
+En plus,presque toutes les entreprises ont un service d’assistance, donc beaucoup d’ouvertures pour commencer!
 
-Take a look at this video by KevTech on [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU). Binge watch his channel because he has so much great content!
+Jettez un coup d’oeil à cette video par KevTech sur [Questions d’interviews au service d’assistance ](https://youtu.be/McxVgoQaCpU). regardez sa chaîne parce qu’il a tellement de contenu génial!!
 
-## What's next
+## C'est quoi la suite 
 
 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md)
+[Allez à phase 1: Linux,Réseau,et les Fondamentaux du scripting](../phase1/README.md)
