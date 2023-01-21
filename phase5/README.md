@@ -1,22 +1,21 @@
-# Phase 5: Les fondamentaux de la securite cloudd
+# Phase 5: Les fondamentaux de la securité cloud
 
 Auteur: [Dayspring Johnson](https://twitter.com/daycyberwox)
 
 ## Comment s’applique cette phase au Cloud??
 
-la securite est le plus grand challenge dans le clous. As cloud adoption continues to grow, cloud security incidents and vulnerabilities are equally on the rise. 
+la securité est le plus grand challenge dans le cloud.Alors que l'adoption du cloud continue de croître,les incidents de sécurité dans le cloud et les vulnérabilités sont également en croissance.
 
-The individual cloud components you were introduced to in the previous phases all require security in some shape or form. Better yet, security has to be considered from every perspective in order to prevent malicious actors from finding and exploiting vulnerabilities in our cloud environments which could potentially lead to data or infrastructure compromise.
+Les composants cloud individuels qui vous ont été présentés au cours des phases précédentes nécessitent tous une sécurité sous une forme ou une autre. Mieux encore, la sécurité doit être prise en compte sous tous les angles afin d'empêcher les acteurs malveillants de trouver et d'exploiter des vulnérabilités dans nos environnements cloud qui pourraient potentiellement conduire à la compromission des données ou de l'infrastructure.
 
-Here's one of my favorite articles by [Christophe Tafani-Dereeper](https://twitter.com/christophetd) that covers Cloud Security Breaches and Vulnerabilities:
+Voici un de mes articles préférés par [Christophe Tafani-Dereeper](https://twitter.com/christophetd) qui couvre les failles de sécurité et les vulnérabilités du cloud:
 
-- [Cloud Security Breaches and Vulnerabilities: 2021 in Review](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
+- [Violations et vulnérabilités de la sécurité du cloud: 2021 en Revue](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
 
-I also recommend checking out [Securing DevOps: Security in the Cloud](https://www.manning.com/books/securing-devops) by [Julien Vehent](https://twitter.com/jvehent) which covers several of the core components for protecting cloud infrastructure, logging, detecting threats and so on. It even has practical and visual aids that help in learning these concepts. 
+ Je recommande également de consulter [Securisation DevOps: Securité dans le Cloud](https://www.manning.com/books/securing-devops) par [Julien Vehent](https://twitter.com/jvehent) qui couvre plusieurs des composants de base pour la protection de l'infrastructure cloud, la journalisation, la détection des menaces, etc. Il a même des aides pratiques et visuelles qui aident à apprendre ces concepts.
+Une autre recommandation de livre est[Sécurité cloud pratique:Un guide pour une conception et un déploiement sécurisés ](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/) par [Chris Dotson](https://www.linkedin.com/in/chris-dotson-6a9b55/). Ce livre est une bonne ressource complémentaire au livre précédent car il approfondit divers concepts, normes, cadres et principes requis pour la sécurité du cloud, et comme son nom l'indique, il est pratique.
 
-Another book recommendation is [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/) by [Chris Dotson](https://www.linkedin.com/in/chris-dotson-6a9b55/). This book is a good complimentary resource to the previous book as it goes in-depth into various concepts, standards, frameworks and principles required for cloud security, and as the name implies, it is practical.
-
-Always rememeber this, you can not secure what you do not understand, so make sure to understand the architectural and core components of the cloud so that you can properly secure them.
+Rappelez-vous toujours ceci, vous ne pouvez pas sécuriser ce que vous ne comprenez pas, alors assurez-vous de comprendre les composants architecturaux et de base du cloud afin de pouvoir les sécuriser correctement.
 
 
 ## Resources
@@ -54,7 +53,7 @@ Azure | [Azure Cloud Detection Lab(Blog)](https://cyberwoxacademy.com/azure-clou
 Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://youtu.be/RoZeVbbZ0o0)| A hands-on project showing how to set up a honey pot and analyzing malicious traffic using Azure Sentinel. |
 
 
-## Things you should be familiar with at the end of this phase
+## Les choses avec lesquelles vous devez être familier avec à la fin de cette phase
 
 
 - An understanding of core IAM concepts (Users, Roles, Policies, Groups, Service Accounts/Principals, etc.)
@@ -66,7 +65,7 @@ Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER
 - How to deploy vulnerable infrastructure in the cloud for security testing.
 - Knowledge and usage various cloud security tools.
 
-## Certifications you might want to look into
+## Les Certifications que vous pourriez vouloir voir
 
 
 - [Certified Cloud Security Professional](https://www.isc2.org/Certifications/CCSP)
