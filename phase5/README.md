@@ -1,10 +1,10 @@
-# Phase 5: Cloud Security Fundamentals
+# Phase 5: Les fondamentaux de la securite cloudd
 
-Author: [Dayspring Johnson](https://twitter.com/daycyberwox)
+Auteur: [Dayspring Johnson](https://twitter.com/daycyberwox)
 
-## How does this phase apply to Cloud?
+## Comment s’applique cette phase au Cloud??
 
-Security is the biggest challenge to cloud computing. As cloud adoption continues to grow, cloud security incidents and vulnerabilities are equally on the rise. 
+la securite est le plus grand challenge dans le clous. As cloud adoption continues to grow, cloud security incidents and vulnerabilities are equally on the rise. 
 
 The individual cloud components you were introduced to in the previous phases all require security in some shape or form. Better yet, security has to be considered from every perspective in order to prevent malicious actors from finding and exploiting vulnerabilities in our cloud environments which could potentially lead to data or infrastructure compromise.
 
@@ -22,7 +22,7 @@ Always rememeber this, you can not secure what you do not understand, so make su
 ## Resources
 
 
-| Cloud Platform | Title  | Description  |
+| Plateformes cloud | Titre  | Description  |
 |:-------------- | ------ | ------ |
 AWS, Azure & GCP | [Hacking The Cloud](https://hackingthe.cloud/)| Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that are common in cloud exploitation. |
 AWS | [Flaws.Cloudf](http://flaws.cloud/)| Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS). |
@@ -43,10 +43,10 @@ Kubernetes | [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)| Kuberne
 
 
 
-## Projects 
+## Projets 
 
 
-| Cloud Platform | Title  | Description  |
+| Plateformes cloud | Titre  | Description  |
 |:-------------- | ------ | ------ |
 AWS | [Threat Detection With AWS GuardDuty](https://www.youtube.com/watch?v=lLgqP4cbdWg&t=127s)| A tutorial showing how to use AWS GuardDuty to detect threats. |
 AWS | [AWS Threat Simulation & Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection/blob/main/aws.credential-access.ec2-get-password-data.md)| This doc shows the use of Stratus Red Team & SumoLogic for attack & detection/analysis. This can replicated using any other SIEM. |
